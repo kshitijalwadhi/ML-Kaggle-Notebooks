@@ -9,6 +9,13 @@ Notebooks added till now category wise:
 
 - ## Kaggle Submissions:
 
+  - ### Planet: Understanding the Amazon from Space
+
+    Competition link:
+    [Kaggle: Planet](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)
+
+    My notebook: [Link](./Kaggle_Competitions/DogsCatsRedux.ipynb)
+
   - ### Dogs vs Cats Redux
 
     Competition link:
