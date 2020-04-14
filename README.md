@@ -36,3 +36,9 @@ Notebooks added till now category wise:
     Getting the data for training and cross validation from google images.
 
     My notebook: [Link](./Jupyter_Notebooks/Classifier_UsingGoogleImagesData.ipynb)
+
+  - ### CAMVID
+
+    Training a model using CAMVID Academic Dataset.
+
+    My notebook: [Link](./Jupyter_Notebooks/CAMVID.ipynb)
