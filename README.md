@@ -61,28 +61,28 @@ Notebooks added till now category wise:
 
     Trained a conv net to predict Pneumonia from Chest XRay images.
 
-    My notebook: [Link](./Jupter_Notebooks/Pneumonia.ipynb)
+    My notebook: [Link](./Jupyter_Notebooks/Pneumonia.ipynb)
 
   - ### MNIST
 
     Trained a NN using Keras to predict handwritten digits (MNIST)
 
-    My notebook: [Link](./Jupter_Notebooks/MNIST_FINAL.ipynb)
+    My notebook: [Link](./Jupyter_Notebooks/MNIST_FINAL.ipynb)
 
   - ### RNN - MNIST
 
     Trained an RNN using Keras to predict handwritten digits (MNIST)
 
-    My notebook: [Link](./Jupter_Notebooks/RNN_MNIST_1.ipynb)
+    My notebook: [Link](./Jupyter_Notebooks/RNN_MNIST_1.ipynb)
 
   - ### IMDB NLP Sentiment analysis
 
     Trained an RNN to do sentiment analysis on IMDB Reviews
 
-    My notebook: [Link](./Jupter_Notebooks/IMDB_NLP.ipynb)
+    My notebook: [Link](./Jupyter_Notebooks/IMDB_NLP.ipynb)
 
   - ### Movie Recommender System
 
     Built a movie recommender system
 
-    My notebook: [Link](./Jupter_Notebooks/MovieRecommender.ipynb)
+    My notebook: [Link](./Jupyter_Notebooks/MovieRecommender.ipynb)
